@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/static/v1?label=dependence&message=R(>=3.5)&color=red&style=flat"/>
 <img src="https://github.com/GeoInformacao/geobage/blob/master/logogeobage.png" width=115 align="right"/>
 
-**Status do Projeto: Em desenvolvimento** :warning:
+**Project Status: In development** :warning:
 
 # **Description**
 geobage is an R package that allows users to easily access spatial data sets in the municipality of Bagé / RS. 
