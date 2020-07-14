@@ -1,0 +1,9 @@
+{
+    "path" : "~/geobage",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
