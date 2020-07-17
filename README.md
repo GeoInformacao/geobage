@@ -83,4 +83,4 @@ The geobr package is developed by a team from the Institute of Applied Economic 
 sector of the Municipality of Bagé / RS, Brazil. If you want to quote this package, you can quote it as:
 
      Silva,R.;Antoria,C.P.A. (2020) geobage: Spatial data from the municipality of Bagé.
-     GitHub repository - https://github.com/Prof-Rodrigo-Silva/geobage.
+     GitHub repository - https://github.com/GeoInformacao/geobage.
