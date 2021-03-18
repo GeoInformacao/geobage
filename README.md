@@ -57,13 +57,28 @@ mun <- read_census_tract_bg()
 
 # **Coming Soon:**
 
-|         Function         | Geographies available | Source |
-|:------------------------:|:---------------------:|:------:|
-| read_drainage_network_bg |    Drainage network   |  Bagé  |
-|     read_macrozone_bg    |       Macrozone       |  Bagé  |
-|   read_neighborhoods_bg  |     Neighborhoods     |  Bagé  |
-|     read_risk_area_bg    |       Risk areas      |  Bagé  |
-|            ...           |          ...          |   ...  |
+|           Function           |  Geographies available | Source |
+|:----------------------------:|:----------------------:|:------:|
+|        read_dam_bg           |Dams in the Municipality|  ANA   |
+|     read_railways_bg         |       Rail Lines       |  DIVA  |
+|      read_geology_bg         |        Geology         |  IBGE  |
+|   read_geomorphology_bg      |     Geomorphology      |  IBGE  |
+|   read_hydrogeology_bg       |     Hydrogeology       |  IBGE  |
+|  read_transmission_lines_bg  |   Transmission Lines   | ANATEL |
+|      read_rural_lots_bg      |       Rural Lots       |  CAR   |
+|      read_mass_water_bg      |     Bodies of Water    |  ANA   |
+|     read_paleontology_bg     |      Paleontology      |  CPRM  |
+|       read_pedology_bg       |        Pedology        |  IBGE  |
+|    read_milk_production_bg   |     Milk Production    |  ....  |
+|      read_highways_bg        |        Highways        |  DIVA  |
+|       read_ground_bg         |         Ground         |  ....  |
+|   read_drainage_stretch_bg   |    Drainage Stretch    |  ANA   |
+|read_drainage_mass_stretch_bg | Drainage Mass Stretch  |  ANA   |
+|read_hydro_stratified_unit_bg | Hydro-Stratified Unit  |  IBGE  |
+|      read_land_use_bg        |       Land Use         |  ....  |
+|     read_vegetation_bg       |      Vegetation        |  IBGE  |
+|             ...              |          ...           |  ....  |
+
 
 
 # **Contributing To geobage**
@@ -82,5 +97,5 @@ The original shapefiles are created by official government institutions. The geo
 The geobr package is developed by a team from the Institute of Applied Economic Research (Ipea) and the geobage package is developed by a team from the GeoInformation
 sector of the Municipality of Bagé / RS, Brazil. If you want to quote this package, you can quote it as:
 
-     Silva,R.;Antoria,C.P.A. (2020) geobage: Spatial data from the municipality of Bagé.
+     Silva,R.;Antoria,C.P.A.;Fernandes,F.R. (2021) geobage: Spatial data from the municipality of Bagé.
      GitHub repository - https://github.com/GeoInformacao/geobage.
