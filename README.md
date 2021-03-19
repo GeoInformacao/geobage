@@ -45,6 +45,7 @@ mun <- read_census_tract_bg()
 |       read_biome_pampa      |                    Biome                   |      IBGE     |
 |     read_census_tract_bg    |       Census tract (setor censitário)      |      IBGE     |
 |  read_conservation_unit_bg  |              Conservation unit             |      MMA      |
+|        read_dam_bg          |          Dams in the Municipality          |      ANA      |
 |  read_health_facilities_bg  |              Health facilitie              | CNES, DataSUS |
 |   read_immediate_region_bg  |              Immediate region              |      IBGE     |
 |         read_info_bg        | Information about the municipality of Bagé |      IBGE     |
@@ -59,7 +60,6 @@ mun <- read_census_tract_bg()
 
 |           Function           |  Geographies available | Source |
 |:----------------------------:|:----------------------:|:------:|
-|        read_dam_bg           |Dams in the Municipality|  ANA   |
 |     read_railways_bg         |       Rail Lines       |  DIVA  |
 |      read_geology_bg         |        Geology         |  IBGE  |
 |   read_geomorphology_bg      |     Geomorphology      |  IBGE  |
