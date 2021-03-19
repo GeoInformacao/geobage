@@ -1,39 +1,40 @@
 Type: Package
 Package: geobage
 Title: Shapefiles of Official Spatial Data Sets of Bage
-Version: 1.0.0
-Autho@R: c(person(given="Rodrigo Rosa da",family="Silva",email="profrodrigorosadasilva@gmail.com",role=c("aut", "cre"),comment = c(ORCID = "0000-0002-8392-115X")),
-           person(given="Cássio Pimenta de Araújo",family="Antoria",role=c("aut")),
-           person("Prefeitura Municipal de BagÃ© - RS",role = c("cph", "fnd")))
-Date: 2020-06-30
-URL: https://github.com/Prof-Rodrigo-Silva/geobage
-BugReports: https://github.com/Prof-Rodrigo-Silva/geobage/issues
-Description: Access to official spatial data sets of BagÃ©-RS as 'sf' objects in R.
+Version: 1.0.9000
+Autho@R: c(person(given="Rodrigo Rosa da",family="Silva",email="profrodrigorosadasilva@gmail.com",role=c("aut", "cre","cph"),comment = c(ORCID = "0000-0002-8392-115X")),
+           person(given="Cassio Pimenta de Araujo",family="Antoria",role=c("aut")),
+           person(given="Jenefer Rodrigues",family="Fernandes",role=c("ctb"))
+           person("Prefeitura Municipal de Bage - RS",role = c("cph", "fnd")))
+Date: 2021-03-26
+URL: https://github.com/GeoInformacao/geobage
+BugReports: https://github.com/GeoInformacao/geobage/issues
+Description: Access to official spatial data sets of Bage-RS as 'sf' objects in R.
 	     The package includes a wide range of geospatial.
 License: MIT License + file LICENSE
 Encoding: UTF-8
 LazyData: TRUE
-Depends:
-    R (>= 3.5.0)
-Suggests:
-    covr,
-    dplyr (>= 0.8-3),
-    ggplot2 (>= 3.3.1),
-    knitr,
-    magrittr,
-    mapview,
-    rio,
-    rmarkdown,
-    testthat
+Depends: R (>= 3.5.0)
+Suggests: covr,
+          dplyr (>= 0.8-3),
+          ggplot2 (>= 3.3.1),
+          knitr,
+          magrittr,
+          mapview,
+          rio,
+          rmarkdown,
+          testthat
 Imports:geobr,
+        geojsonio,
         httr (>= 1.4.1),
         readr,
         sf (>= 0.9-3),
         utils
 RoxygenNote: 7.1.1
-Author: Rodrigo Rosa da Silva [aut, cre]
+Author: Rodrigo Rosa da Silva [aut, cre, cph]
     (<https://orcid.org/0000-0002-8392-115X>),
-    Cássio Pimenta de Araújo Antpria [aut],
-    Prefeitura Municipal de BagÃ© - RS
+    Cássio Pimenta de Araujo Antoria [aut],
+    Jenefer Rodrigues Fernandes [ctb],
+    Prefeitura Municipal de Bage - RS
 Research: [cph, fnd]
 Maintainer: Rodrigo Rosa da Silva <profrodrigorosadasilva@gmail.com>
