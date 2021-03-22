@@ -1,6 +1,6 @@
-#' Dam
+#' Drainage Mass Stretch
 #'
-#' Function returns existing dams in the municipality of Bage
+#' Function returns land use in Bage municipality
 #'
 #' @export
 #' @family general area functions
@@ -8,11 +8,11 @@
 #'
 #' library(geobage)
 #'
-#'   c <- read_dam_bg()
+#'   c <- read_land_use_bg()
 #'
 #' }
-read_dam_bg <- function(){
-  objeto <- geojsonio::geojson_read("https://raw.githubusercontent.com/GeoInformacao/filesGeoJSONgeobage/main/BARRAGEM.geojson",what = "sp")
+read_land_use_bg <- function(){
+  objeto <- geojsonio::geojson_read("https://raw.githubusercontent.com/GeoInformacao/filesGeoJSONgeobage/main/USO_DA_TERRA.geojson",what = "sp")
   # Criando um objeto Simple Feature (sf) com coordenadas geometricas
   objeto <- sf::st_as_sf(objeto, coords(list(c('long', 'lat')), group_by(objeto$id)))
   objeto

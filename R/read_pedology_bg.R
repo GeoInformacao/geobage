@@ -1,6 +1,6 @@
-#' Dam
+#' Pedology
 #'
-#' Function returns existing dams in the municipality of Bage
+#' Function returns the pedology of the municipality of Bage
 #'
 #' @export
 #' @family general area functions
@@ -8,11 +8,11 @@
 #'
 #' library(geobage)
 #'
-#'   c <- read_dam_bg()
+#'   c <- read_pedology_bg()
 #'
 #' }
-read_dam_bg <- function(){
-  objeto <- geojsonio::geojson_read("https://raw.githubusercontent.com/GeoInformacao/filesGeoJSONgeobage/main/BARRAGEM.geojson",what = "sp")
+read_pedology_bg <- function(){
+  objeto <- geojsonio::geojson_read("https://raw.githubusercontent.com/GeoInformacao/filesGeoJSONgeobage/main/PEDOLOGIA.geojson",what = "sp")
   # Criando um objeto Simple Feature (sf) com coordenadas geometricas
   objeto <- sf::st_as_sf(objeto, coords(list(c('long', 'lat')), group_by(objeto$id)))
   objeto
