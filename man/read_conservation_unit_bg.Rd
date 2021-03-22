@@ -8,7 +8,7 @@ read_conservation_unit_bg()
 }
 \description{
 Function returns the polygon of the conservation unit present in the municipality of
-Bagé. The data comes from MMA and can be found at http://mapas.mma.gov.br/i3geo/datadownload.htm.
+Bage. The data comes from MMA and can be found at http://mapas.mma.gov.br/i3geo/datadownload.htm.
 }
 \examples{
 \dontrun{
@@ -21,16 +21,34 @@ library(geobage)
 }
 \seealso{
 Other general area functions: 
-\code{\link{read_biome_pampa}()},
+\code{\link{read_biome_pampa_bg}()},
 \code{\link{read_census_tract_bg}()},
+\code{\link{read_dam_bg}()},
+\code{\link{read_drainage_mass_stretch_bg}()},
+\code{\link{read_drainage_stretch_bg}()},
+\code{\link{read_geology_bg}()},
+\code{\link{read_geomorphology_bg}()},
 \code{\link{read_health_facilities_bg}()},
+\code{\link{read_highways_bg}()},
+\code{\link{read_hydro_stratified_unit_bg}()},
+\code{\link{read_hydrogeology_bg}()},
 \code{\link{read_immediate_region_bg}()},
 \code{\link{read_info_bg}()},
 \code{\link{read_intermediate_region_bg}()},
+\code{\link{read_land_use_bg}()},
+\code{\link{read_mass_water_bg}()},
 \code{\link{read_meso_region_bg}()},
 \code{\link{read_micro_region_bg}()},
+\code{\link{read_milk_production_bg}()},
 \code{\link{read_municipal_seat_bg}()},
+\code{\link{read_paleontology_bg}()},
+\code{\link{read_pedology_bg}()},
+\code{\link{read_railways_bg}()},
+\code{\link{read_rural_lots_bg}()},
 \code{\link{read_shape_bg}()},
-\code{\link{read_urban_area_bg}()}
+\code{\link{read_soil_exploration_bg}()},
+\code{\link{read_transmission_lines_bg}()},
+\code{\link{read_urban_area_bg}()},
+\code{\link{read_vegetation_bg}()}
 }
 \concept{general area functions}

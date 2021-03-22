@@ -2,12 +2,12 @@
 % Please edit documentation in R/read_intermediate_region_bg.R
 \name{read_intermediate_region_bg}
 \alias{read_intermediate_region_bg}
-\title{Areas intermediate the municipality of Bagé}
+\title{Areas intermediate the municipality of Bage}
 \usage{
 read_intermediate_region_bg()
 }
 \description{
-Function returns the intermediate region in which the municipality of Bagé is inserted. Intermediate Geographic
+Function returns the intermediate region in which the municipality of Bage is inserted. Intermediate Geographic
 Areas are part of the geographical division of Brazil created in 2017 by IBGE. These regions were created to
 replace the "Meso Regions" division. Data on scale 1: 250,000, using the geodetic reference system "SIRGAS2000"
 and CRS (4674)
@@ -23,16 +23,34 @@ library(geobage)
 }
 \seealso{
 Other general area functions: 
-\code{\link{read_biome_pampa}()},
+\code{\link{read_biome_pampa_bg}()},
 \code{\link{read_census_tract_bg}()},
 \code{\link{read_conservation_unit_bg}()},
+\code{\link{read_dam_bg}()},
+\code{\link{read_drainage_mass_stretch_bg}()},
+\code{\link{read_drainage_stretch_bg}()},
+\code{\link{read_geology_bg}()},
+\code{\link{read_geomorphology_bg}()},
 \code{\link{read_health_facilities_bg}()},
+\code{\link{read_highways_bg}()},
+\code{\link{read_hydro_stratified_unit_bg}()},
+\code{\link{read_hydrogeology_bg}()},
 \code{\link{read_immediate_region_bg}()},
 \code{\link{read_info_bg}()},
+\code{\link{read_land_use_bg}()},
+\code{\link{read_mass_water_bg}()},
 \code{\link{read_meso_region_bg}()},
 \code{\link{read_micro_region_bg}()},
+\code{\link{read_milk_production_bg}()},
 \code{\link{read_municipal_seat_bg}()},
+\code{\link{read_paleontology_bg}()},
+\code{\link{read_pedology_bg}()},
+\code{\link{read_railways_bg}()},
+\code{\link{read_rural_lots_bg}()},
 \code{\link{read_shape_bg}()},
-\code{\link{read_urban_area_bg}()}
+\code{\link{read_soil_exploration_bg}()},
+\code{\link{read_transmission_lines_bg}()},
+\code{\link{read_urban_area_bg}()},
+\code{\link{read_vegetation_bg}()}
 }
 \concept{general area functions}
