@@ -71,7 +71,7 @@ mun <- read_census_tract_bg()
 |       read_pedology_bg       |        Pedology        |  IBGE  |
 |    read_milk_production_bg   |     Milk Production    |  ....  |
 |      read_highways_bg        |        Highways        |  DIVA  |
-|       read_ground_bg         |         Ground         |  ....  |
+|   read_soil_exploration_bg   |    Soil Exploration    |  ....  |
 |   read_drainage_stretch_bg   |    Drainage Stretch    |  ANA   |
 |read_drainage_mass_stretch_bg | Drainage Mass Stretch  |  ANA   |
 |read_hydro_stratified_unit_bg | Hydro-Stratified Unit  |  IBGE  |
