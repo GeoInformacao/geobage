@@ -15,7 +15,7 @@
 #' }
 
 read_health_facilities_bg <- function(){
-  bg <- geobr::read_health_facilities()
-  bg <- subset(bg, bg$code_muni == 430160)
-  bg
+  objeto <- geobr::read_health_facilities()
+  objeto <- subset(objeto, objeto$code_muni == 430160)
+  objeto
 }

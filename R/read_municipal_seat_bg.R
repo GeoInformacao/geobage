@@ -1,6 +1,6 @@
-#' Municipality seat of Bagé
+#' Municipality seat of Bage
 #'
-#' Function returns the headquarters of the municipality of Bagé
+#' Function returns the headquarters of the municipality of Bage
 #'
 #' @export
 #' @family general area functions
@@ -12,7 +12,7 @@
 #'
 #' }
 read_municipal_seat_bg <- function(){
-  bg <- geobr::read_municipal_seat()
-  bg <- subset(bg, code_muni == 4301602)
-  bg
+  objeto <- geobr::read_municipal_seat()
+  objeto <- subset(objeto, code_muni == 4301602)
+  objeto
 }

@@ -1,7 +1,7 @@
-#' Census tract - setor censitário
+#' Census tract - setor censitario
 #'
 #' Function returns the census sectors of the Brazilian
-#' Demographic Census for the municipality of Bagé
+#' Demographic Census for the municipality of Bage
 #'
 #' @export
 #' @family general area functions
@@ -13,6 +13,6 @@
 #'
 #' }
 read_census_tract_bg <- function(){
-  bg <- geobr::read_census_tract(code_tract = 4301602)
-  bg
+  objeto <- geobr::read_census_tract(code_tract = 4301602)
+  objeto
 }

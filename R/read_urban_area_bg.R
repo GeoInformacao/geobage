@@ -1,6 +1,6 @@
 #' Urban footprint
 #'
-#' Function returns to urban area of Bagé municipality
+#' Function returns to urban area of Bage municipality
 #'
 #' @export
 #' @family general area functions
@@ -12,7 +12,7 @@
 #'
 #' }
 read_urban_area_bg <- function(){
-  bg <- geobr::read_urban_area()
-  bg <- subset(bg, bg$code_muni==4301602)
-  bg
+  objeto <- geobr::read_urban_area()
+  objeto <- subset(objeto, objeto$code_muni==4301602)
+  objeto
 }

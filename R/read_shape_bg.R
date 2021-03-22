@@ -1,6 +1,6 @@
-#' Shape of Bagé
+#' Shape of Bage
 #'
-#' Function returns the shape of the municipality of Bagé
+#' Function returns the shape of the municipality of Bage
 #'
 #' @export
 #' @family general area functions
@@ -12,6 +12,6 @@
 #'
 #' }
 read_shape_bg <- function(){
-  bg <- geobr::read_municipality(code_muni=4301602)
-  bg
+  objeto <- geobr::read_municipality(code_muni=4301602)
+  objeto
 }
