@@ -42,6 +42,7 @@ mun <- read_census_tract_bg()
 
 |           Function          |            Geographies available           |     Source    |
 |:---------------------------:|:------------------------------------------:|:-------------:|
+|     read_allotments_bg      |                  Allotments                |      ....     |
 |       read_biome_pampa      |                    Biome                   |      IBGE     |
 |     read_census_tract_bg    |       Census tract (setor censitário)      |      IBGE     |
 |  read_conservation_unit_bg  |              Conservation unit             |      MMA      |
@@ -58,6 +59,7 @@ mun <- read_census_tract_bg()
 |      read_land_use_bg       |                  Land Use                  |      ....     |
 |         read_info_bg        | Information about the municipality of Bagé |      IBGE     |
 | read_intermediate_region_bg |             Intermediate region            |      IBGE     |
+|  read_macro_urban_areas_bg  |              Macro urban areas             |      PMB*     | 
 |      read_mass_water_bg     |               Bodies of Water              |      ANA      |
 |     read_meso_region_bg     |                 Meso region                |      IBGE     |
 |     read_micro_region_bg    |                Micro region                |      IBGE     |
@@ -65,10 +67,13 @@ mun <- read_census_tract_bg()
 |    read_municipal_seat_bg   |              Municipality seat             |      IBGE     |
 |     read_paleontology_bg    |                Paleontology                |      CPRM     |
 |       read_pedology_bg      |                  Pedology                  |      IBGE     |
+|  read_public_buildings_bg   |              Public Buildings              |      PMB*     |
 |       read_railways_bg      |                 Rail Lines                 |      DIVA     |
 |      read_rural_lots_bg     |                 Rural Lots                 |      CAR      |
+|     read_rural_roads_bg     |                Rural Roads                 |      ....     |
 |        read_shape_bg        |            Municipality of Bagé            |      IBGE     |
 |   read_soil_exploration_bg  |              Soil Exploration              |      ....     |
+|     read_soil_types_bg      |                  Soil Types                |      ....     |
 | read_transmission_lines_bg  |             Transmission Lines             |     ANATEL    |
 |      read_urban_area_bg     |               Urban footprint              |      IBGE     |
 |     read_vegetation_bg      |                 Vegetation                 |      IBGE     |
@@ -77,11 +82,12 @@ mun <- read_census_tract_bg()
 
 |           Function           |  Geographies available | Source |
 |:----------------------------:|:----------------------:|:------:|
-|     read_soil_types_bg       |       Soil Types       |        |
-|     read_rural_roads_bg      |      Rural Roads       |        |
-|     read_allotments_bg       |       Allotments       |        |
+|        read_paving_bg**      |         Paving         |  PMB*  |
 |             ...              |          ...           |  ....  |
 
+
+* Bage City Hall - Geoinformation Sector
+* * Function under review
 
 
 # **Contributing To geobage**
