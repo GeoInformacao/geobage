@@ -21,6 +21,7 @@ library(geobage)
 }
 \seealso{
 Other general area functions: 
+\code{\link{read_allotments_bg}()},
 \code{\link{read_biome_pampa_bg}()},
 \code{\link{read_conservation_unit_bg}()},
 \code{\link{read_dam_bg}()},
@@ -45,8 +46,10 @@ Other general area functions:
 \code{\link{read_pedology_bg}()},
 \code{\link{read_railways_bg}()},
 \code{\link{read_rural_lots_bg}()},
+\code{\link{read_rural_roads_bg}()},
 \code{\link{read_shape_bg}()},
 \code{\link{read_soil_exploration_bg}()},
+\code{\link{read_soil_types_bg}()},
 \code{\link{read_transmission_lines_bg}()},
 \code{\link{read_urban_area_bg}()},
 \code{\link{read_vegetation_bg}()}
