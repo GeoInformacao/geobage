@@ -12,7 +12,7 @@
 #'
 #' }
 read_soil_types_bg <- function(){
-  objeto <- geojsonio::geojson_read("https://raw.githubusercontent.com/GeoInformacao/filesGeoJSONgeobage/main/TIPOSOLO.geojson",what = "sp")
+  objeto <- geojsonio::geojson_read("https://raw.githubusercontent.com/GeoInformacao/filesGeoJSONgeobage/main/TIPO_SOLO.geojson",what = "sp")
   # Criando um objeto Simple Feature (sf) com coordenadas geometricas
   objeto <- sf::st_as_sf(objeto, coords(list(c('long', 'lat')), group_by(objeto$id)))
   objeto
