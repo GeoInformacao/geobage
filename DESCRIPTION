@@ -1,7 +1,7 @@
 Type: Package
 Package: geobage
 Title: Shapefiles of Official Spatial Data Sets of Bage
-Version: 1.0.9000
+Version: 1.1.0
 Autho@R: c(person(given="Rodrigo Rosa da",family="Silva",email="profrodrigorosadasilva@gmail.com",role=c("aut", "cre","cph"),comment = c(ORCID = "0000-0002-8392-115X")),
            person(given="Cassio Pimenta de Araujo",family="Antoria",role=c("aut")),
            person(given="Jenefer Rodrigues",family="Fernandes",role=c("ctb"))
