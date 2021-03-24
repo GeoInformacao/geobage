@@ -24,6 +24,7 @@ The package includes a wide variety of geospatial data as simple resources.
   library(geobage)
 ```
 Obs 1 - Before installing the package, clean the current session or start a new session.
+
 Obs 2 - If you use Linux, you need to install a couple dependencies before installing the libraries sf and geobage.More info [here](https://github.com/r-spatial/sf#linux).
 
 # **Basic Usage**
