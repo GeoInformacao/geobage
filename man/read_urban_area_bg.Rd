@@ -20,6 +20,7 @@ library(geobage)
 }
 \seealso{
 Other general area functions: 
+\code{\link{read_aerodromes_bg}()},
 \code{\link{read_allotments_bg}()},
 \code{\link{read_biome_pampa_bg}()},
 \code{\link{read_census_tract_bg}()},
@@ -30,7 +31,6 @@ Other general area functions:
 \code{\link{read_geology_bg}()},
 \code{\link{read_geomorphology_bg}()},
 \code{\link{read_health_facilities_bg}()},
-\code{\link{read_highways_bg}()},
 \code{\link{read_hydro_stratified_unit_bg}()},
 \code{\link{read_hydrogeology_bg}()},
 \code{\link{read_immediate_region_bg}()},
@@ -54,6 +54,7 @@ Other general area functions:
 \code{\link{read_soil_exploration_bg}()},
 \code{\link{read_soil_types_bg}()},
 \code{\link{read_transmission_lines_bg}()},
+\code{\link{read_unpaved_highways_bg}()},
 \code{\link{read_vegetation_bg}()}
 }
 \concept{general area functions}
