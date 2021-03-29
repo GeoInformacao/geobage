@@ -85,6 +85,8 @@ mun <- read_census_tract_bg()
 |           Function           |  Geographies available | Source |
 |:----------------------------:|:----------------------:|:------:|
 |        read_paving_bg**      |         Paving         |  PMB*  |
+|    read_paved_highways_bg    |     Paved Highways     |  DIVA  |
+|    read_contour_lines_bg     |     Contour Lines      |  ....  |
 |             ...              |          ...           |  ....  |
 
 
