@@ -53,7 +53,6 @@ mun <- read_census_tract_bg()
 |   read_drainage_stretch_bg  |               Drainage Stretch             |      ANA      |
 |      read_geology_bg        |                   Geology                  |      IBGE     |
 |   read_geomorphology_bg     |                Geomorphology               |      IBGE     |
-|      read_highways_bg       |                  Highways                  |      DIVA     |
 |read_hydro_stratified_unit_bg|            Hydro-Stratified Unit           |      IBGE     |
 |    read_hydrogeology_bg     |                Hydrogeology                |      IBGE     |
 |  read_health_facilities_bg  |              Health facilitie              | CNES, DataSUS |
@@ -77,6 +76,7 @@ mun <- read_census_tract_bg()
 |   read_soil_exploration_bg  |              Soil Exploration              |      ....     |
 |     read_soil_types_bg      |                  Soil Types                |      ....     |
 | read_transmission_lines_bg  |             Transmission Lines             |     ANATEL    |
+|  read_unpaved_highways_bg   |              Unpaved Highways              |      DIVA     |
 |      read_urban_area_bg     |               Urban footprint              |      IBGE     |
 |     read_vegetation_bg      |                 Vegetation                 |      IBGE     |
 
