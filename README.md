@@ -54,43 +54,50 @@ mun <- read_census_tract_bg()
 |    read_districts_bg              |              Districts of Bage             |      PMB*     |
 |read_drainage_mass_stretch_bg      |            Drainage Mass Stretch           |      ANA      |
 |   read_drainage_stretch_bg        |               Drainage Stretch             |      ANA      |
-| read_environmental_sensitivity_bg |
-|      read_geology_bg        |                   Geology                  |      IBGE     |
-|   read_geomorphology_bg     |                Geomorphology               |      IBGE     |
-|read_hydro_stratified_unit_bg|            Hydro-Stratified Unit           |      IBGE     |
-|    read_hydrogeology_bg     |                Hydrogeology                |      IBGE     |
-|  read_health_facilities_bg  |              Health facilitie              | CNES, DataSUS |
-|   read_immediate_region_bg  |              Immediate region              |      IBGE     |
-|      read_land_use_bg       |                  Land Use                  |      ....     |
-|         read_info_bg        | Information about the municipality of Bagé |      IBGE     |
-| read_intermediate_region_bg |             Intermediate region            |      IBGE     |
-|  read_macro_urban_areas_bg  |              Macro urban areas             |      PMB*     | 
-|      read_mass_water_bg     |               Bodies of Water              |      ANA      |
-|     read_meso_region_bg     |                 Meso region                |      IBGE     |
-|     read_micro_region_bg    |                Micro region                |      IBGE     |
-|   read_milk_production_bg   |               Milk Production              |      ....     |
-|    read_municipal_seat_bg   |              Municipality seat             |      IBGE     |
-|     read_paleontology_bg    |                Paleontology                |      CPRM     |
-|       read_pedology_bg      |                  Pedology                  |      IBGE     |
-|  read_public_buildings_bg   |              Public Buildings              |      PMB*     |
-|       read_railways_bg      |                 Rail Lines                 |      DIVA     |
-|      read_rural_lots_bg     |                 Rural Lots                 |      CAR      |
-|     read_rural_roads_bg     |                Rural Roads                 |      ....     |
-|        read_shape_bg        |            Municipality of Bagé            |      IBGE     |
-|   read_soil_exploration_bg  |              Soil Exploration              |      ....     |
-|     read_soil_types_bg      |                  Soil Types                |      ....     |
-| read_transmission_lines_bg  |             Transmission Lines             |     ANATEL    |
-|  read_unpaved_highways_bg   |              Unpaved Highways              |      DIVA     |
-|      read_urban_area_bg     |               Urban footprint              |      IBGE     |
-|     read_vegetation_bg      |                 Vegetation                 |      IBGE     |
+| read_environmental_sensitivity_bg |           Environmental Sensitivity        |      FEPAM    |
+|      read_geology_bg              |                   Geology                  |      IBGE     |
+|   read_geomorphology_bg           |                Geomorphology               |      IBGE     |
+| read_hydro_stratified_unit_bg     |            Hydro-Stratified Unit           |      ANA      |
+|    read_hydrogeology_bg           |                Hydrogeology                |      ANA      |
+|     read_hydrography_bg           |                Hydrography                 |      ANA      |
+|  read_health_facilities_bg        |              Health facilitie              | CNES, DataSUS |
+|   read_immediate_region_bg        |              Immediate region              |      IBGE     |
+|         read_info_bg              | Information about the municipality of Bagé |      IBGE     |
+| read_intermediate_region_bg       |             Intermediate region            |      IBGE     |
+|      read_land_use_bg             |                  Land Use                  |      ....     |
+|    read_legal_reserve_bg          |               Legal Reserve                |      ....     |
+|     read_level_curve_bg           |                Level Curve                 |      ....     |
+|  read_macro_urban_areas_bg        |              Macro urban areas             |      PMB*     | 
+|      read_mass_water_bg           |               Bodies of Water              |      ANA      |
+|     read_meso_region_bg           |                 Meso region                |      IBGE     |
+|     read_micro_region_bg          |                Micro region                |      IBGE     |
+|   read_milk_production_bg         |               Milk Production              |      ....     |
+|    read_municipal_seat_bg         |              Municipality seat             |      IBGE     |
+|     read_paleontology_bg          |                Paleontology                |      CPRM     |
+|      read_park_gaucho_bg          |                Park Gaucho                 |      PMB*     |
+|     read_paved_highways_bg        |              Paved Highways                |      ....     |
+|       read_pedology_bg            |                  Pedology                  |      IBGE     |
+|  read_public_buildings_bg         |              Public Buildings              |      PMB*     |
+|  read_public_rural_properties_bg  |          Public Rural Properties           |      ....     |
+|       read_railways_bg            |                 Rail Lines                 |      DIVA     |
+|      read_rural_lots_bg           |                 Rural Lots                 |      CAR      |
+|     read_rural_roads_bg           |                Rural Roads                 |      ....     |
+|        read_shape_bg              |            Municipality of Bagé            |      IBGE     |
+|     read_sand_banks_bg            |                 Sand Banks                 |      PMB*     |
+|   read_soil_exploration_bg        |              Soil Exploration              |      ....     |
+|     read_soil_types_bg            |                  Soil Types                |      ....     |
+| read_transmission_lines_bg        |             Transmission Lines             |     ANATEL    |
+|       read_springs_bg             |                   Springs                  |      ....     |
+|  read_unpaved_highways_bg         |              Unpaved Highways              |      DIVA     |
+|      read_urban_area_bg           |               Urban footprint              |      IBGE     |
+|   read_use_ground_cover_bg        |              Use Ground Cover              |      ....     |
+|     read_vegetation_bg            |                 Vegetation                 |      IBGE     |
 
 # **Coming Soon:**
 
 |           Function           |  Geographies available | Source |
 |:----------------------------:|:----------------------:|:------:|
 |        read_paving_bg**      |         Paving         |  PMB*  |
-|    read_paved_highways_bg    |     Paved Highways     |  DIVA  |
-|    read_contour_lines_bg     |     Contour Lines      |  ....  |
 |             ...              |          ...           |  ....  |
 
 
