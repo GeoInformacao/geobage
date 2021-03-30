@@ -42,15 +42,19 @@ mun <- read_census_tract_bg()
 
 # **Available Datasets:**
 
-|           Function          |            Geographies available           |     Source    |
-|:---------------------------:|:------------------------------------------:|:-------------:|
-|     read_allotments_bg      |                  Allotments                |      ....     |
-|       read_biome_pampa      |                    Biome                   |      IBGE     |
-|     read_census_tract_bg    |       Census tract (setor censitário)      |      IBGE     |
-|  read_conservation_unit_bg  |              Conservation unit             |      MMA      |
-|        read_dam_bg          |          Dams in the Municipality          |      ANA      |
-|read_drainage_mass_stretch_bg|            Drainage Mass Stretch           |      ANA      |
-|   read_drainage_stretch_bg  |               Drainage Stretch             |      ANA      |
+|           Function                |            Geographies available           |     Source    |
+|:---------------------------------:|:------------------------------------------:|:-------------:|
+|     read_aerodromes_bg            |                  Aerodromes                |      ANAC     |
+|     read_allotments_bg            |                  Allotments                |      ....     |
+|        read_bathed_bg             |                    Bathed                  |      ....     |
+|      read_biome_pampa_bg          |                    Biome                   |      IBGE     |
+|     read_census_tract_bg          |       Census tract (setor censitário)      |      IBGE     |
+|  read_conservation_unit_bg        |              Conservation unit             |      MMA      |
+|        read_dam_bg                |          Dams in the Municipality          |      ANA      |
+|    read_districts_bg              |              Districts of Bage             |      PMB*     |
+|read_drainage_mass_stretch_bg      |            Drainage Mass Stretch           |      ANA      |
+|   read_drainage_stretch_bg        |               Drainage Stretch             |      ANA      |
+| read_environmental_sensitivity_bg |
 |      read_geology_bg        |                   Geology                  |      IBGE     |
 |   read_geomorphology_bg     |                Geomorphology               |      IBGE     |
 |read_hydro_stratified_unit_bg|            Hydro-Stratified Unit           |      IBGE     |
