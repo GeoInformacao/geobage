@@ -128,7 +128,6 @@ sector of the Municipality of Bagé / RS, Brazil. If you want to quote this pack
     
 Uma entrada BibTeX para usuários LaTeX é:
 
-      `` `
       @Misc {geobage,
         title = {geobage: Spatial data from the municipality of Bagé},
         autor = {Silva,Rodrigo Rosa da. and Antoria,Cassio Pimento Araujo. and Fernandes,Jenefer Rodrigues.},
@@ -136,4 +135,3 @@ Uma entrada BibTeX para usuários LaTeX é:
         ano = {2021},
         url = {https://github.com/GeoInformacao/geobage},
       }
-      `` `
