@@ -121,5 +121,19 @@ The original shapefiles are created by official government institutions. The geo
 The geobr package is developed by a team from the Institute of Applied Economic Research (Ipea) and the geobage package is developed by a team from the GeoInformation
 sector of the Municipality of Bagé / RS, Brazil. If you want to quote this package, you can quote it as:
 
-     Silva,R.R.;Antoria,C.P.A.;Fernandes,F.R. (2021) geobage: Spatial data from the municipality of Bagé.
+ 
+     Silva,R.R.;Antoria,C.P.A.;Fernandes,J.R. (2021) geobage: Spatial data from the municipality of Bagé.
      GitHub repository - https://github.com/GeoInformacao/geobage.
+     
+    
+Uma entrada BibTeX para usuários LaTeX é:
+
+      `` `
+      @Misc {geobage,
+        title = {geobage: Spatial data from the municipality of Bagé},
+        autor = {Silva,Rodrigo Rosa da. and Antoria,Cassio Pimento Araujo. and Fernandes,Jenefer Rodrigues.},
+        nota = {pacote R versão 1.1.0},
+        ano = {2021},
+        url = {https://github.com/GeoInformacao/geobage},
+      }
+      `` `
