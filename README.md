@@ -97,6 +97,7 @@ mun <- read_census_tract_bg()
 |           Function           |  Geographies available | Source |
 |:----------------------------:|:----------------------:|:------:|
 |        read_paving_bg**      |         Paving         |  PMB*  |
+|         read_iphan_bg        | iphan listed properties|  PMB*  |    
 |             ...              |          ...           |  ....  |
 
 
