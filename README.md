@@ -108,7 +108,7 @@ mun <- read_census_tract_bg()
 # **Contributing To geobage**
 If you want to contribute to geobage and add new functions or datasets, a guide will soon be available to propose your contribution.
 
-# **Developers and collaborators**
+# **Developers And Collaborators**
 
 <table>
   <tr>
