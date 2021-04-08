@@ -108,6 +108,12 @@ mun <- read_census_tract_bg()
 # **Contributing To geobage**
 If you want to contribute to geobage and add new functions or datasets, a guide will soon be available to propose your contribution.
 
+# **Developers and collaborators**
+
+<table>
+  <tr>
+    <td align="center"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/80796776?v=4" width="100px;" alt=""/><br /><sub><b>Jenefer Fernandes</b></sub></a><br /><a href="https://github.com/JRFernandess" title="Coladoradora">👨‍🚀</a></td>
+
 # **Credits**
 <right>
 
