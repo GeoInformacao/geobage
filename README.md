@@ -113,7 +113,7 @@ If you want to contribute to geobage and add new functions or datasets, a guide 
 <table>
   <tr>
     <td align="center"><a href="https://github.com/Prof-Rodrigo-Silva"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/33011697?v=4" width="100px;" alt=""/><br /><sub><b>Rodrigo R Silva</b></sub></a><br /><a href="https://github.com/Prof-Rodrigo-Silva" title="Desenvolvedor">👨‍🚀</a></td>
-    <td align="center"><a href="https://github.com/GGC-Bage"><img style="border-radius: 50%;" src="https://github.com/GeoInformacao/geobage/blob/master/logogeoinformacao.png" width="100px;" alt=""/><br /><sub><b>Cassio P A Antoria</b></sub></a><br /><a href="https://github.com/GGC-Bage" title="Desenvolvedor">👨‍🚀</a></td>
+    <td align="center"><a href="https://github.com/GGC-Bage"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/67596225?v=4" width="100px;" alt=""/><br /><sub><b>Cassio P A Antoria</b></sub></a><br /><a href="https://github.com/GGC-Bage" title="Desenvolvedor">👨‍🚀</a></td>
     <td align="center"><a href="https://github.com/JRFernandess"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/80796776?v=4" width="100px;" alt=""/><br /><sub><b>Jenefer R Fernandes</b></sub></a><br /><a href="https://github.com/JRFernandess" title="Desenvolvedora">👨‍🚀</a></td>
 
   </tr>
