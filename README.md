@@ -144,5 +144,5 @@ A BibTeX entry for LaTeX users is:
      author = {Silva,Rodrigo Rosa da. and Antoria,Cassio Pimento Araujo. and Fernandes,Jenefer Rodrigues.},
      note= {pacote R versão 1.1.0},
      year = {2021},
-     url = {https://github.com/GeoInformacao/geobage},
+     url = {https://github.com/GeoInformacao/geobage}
      }
