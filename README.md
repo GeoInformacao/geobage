@@ -47,6 +47,7 @@ mun <- read_census_tract_bg()
 |        read_bathed_bg             |                    Bathed                  |      ....     |
 |      read_biome_pampa_bg          |                    Biome                   |      IBGE     |
 |     read_census_tract_bg          |       Census tract (setor censitário)      |      IBGE     |
+|        read_compreb_bg            |           Iphan listed properties          |      PMB*     |    
 |  read_conservation_unit_bg        |              Conservation unit             |      MMA      |
 |        read_dam_bg                |          Dams in the Municipality          |      ANA      |
 |    read_districts_bg              |              Districts of Bage             |      PMB*     |
@@ -96,7 +97,6 @@ mun <- read_census_tract_bg()
 |           Function           |  Geographies available | Source |
 |:----------------------------:|:----------------------:|:------:|
 |        read_paving_bg**      |         Paving         |  PMB*  |
-|         read_iphan_bg        | iphan listed properties|  PMB*  |    
 |             ...              |          ...           |  ....  |
 
 
