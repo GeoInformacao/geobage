@@ -28,6 +28,7 @@ Other general area functions:
 \code{\link{read_bathed_bg}()},
 \code{\link{read_biome_pampa_bg}()},
 \code{\link{read_census_tract_bg}()},
+\code{\link{read_compreb_bg}()},
 \code{\link{read_conservation_unit_bg}()},
 \code{\link{read_dam_bg}()},
 \code{\link{read_districts_bg}()},
