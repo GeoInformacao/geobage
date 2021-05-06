@@ -46,9 +46,9 @@ mun <- read_census_tract_bg()
 |     read_allotments_bg            |                  Allotments                |      ....     |
 |        read_bathed_bg             |                    Bathed                  |      ....     |
 |      read_biome_pampa_bg          |                    Biome                   |      IBGE     |
-|     read_census_tract_bg          |       Census tract (setor censitário)      |      IBGE     |
-|        read_compreb_bg            |           Iphan listed properties          |      PMB*     |    
-|  read_conservation_unit_bg        |              Conservation unit             |      MMA      |
+|     read_census_tract_bg          |       Census Tract (setor censitário)      |      IBGE     |
+|        read_compreb_bg            |           Iphan Listed Properties          |      PMB*     |    
+|  read_conservation_unit_bg        |              Conservation Unit             |      MMA      |
 |        read_dam_bg                |          Dams in the Municipality          |      ANA      |
 |    read_districts_bg              |              Districts of Bage             |      PMB*     |
 |read_drainage_mass_stretch_bg      |            Drainage Mass Stretch           |      ANA      |
@@ -59,19 +59,19 @@ mun <- read_census_tract_bg()
 | read_hydro_stratified_unit_bg     |            Hydro-Stratified Unit           |      ANA      |
 |    read_hydrogeology_bg           |                Hydrogeology                |      ANA      |
 |     read_hydrography_bg           |                Hydrography                 |      ANA      |
-|  read_health_facilities_bg        |              Health facilitie              | CNES, DataSUS |
-|   read_immediate_region_bg        |              Immediate region              |      IBGE     |
-|         read_info_bg              | Information about the municipality of Bagé |      IBGE     |
-| read_intermediate_region_bg       |             Intermediate region            |      IBGE     |
+|  read_health_facilities_bg        |              Health Facilitie              | CNES, DataSUS |
+|   read_immediate_region_bg        |              Immediate Region              |      IBGE     |
+|         read_info_bg              | Information About the Municipality of Bagé |      IBGE     |
+| read_intermediate_region_bg       |             Intermediate Region            |      IBGE     |
 |      read_land_use_bg             |                  Land Use                  |      ....     |
 |    read_legal_reserve_bg          |               Legal Reserve                |      ....     |
 |     read_level_curve_bg           |                Level Curve                 |      ....     |
-|  read_macro_urban_areas_bg        |              Macro urban areas             |      PMB*     | 
+|  read_macro_urban_areas_bg        |              Macro Urban Areas             |      PMB*     | 
 |      read_mass_water_bg           |               Bodies of Water              |      ANA      |
-|     read_meso_region_bg           |                 Meso region                |      IBGE     |
-|     read_micro_region_bg          |                Micro region                |      IBGE     |
+|     read_meso_region_bg           |                 Meso Region                |      IBGE     |
+|     read_micro_region_bg          |                Micro Region                |      IBGE     |
 |   read_milk_production_bg         |               Milk Production              |      ....     |
-|    read_municipal_seat_bg         |              Municipality seat             |      IBGE     |
+|    read_municipal_seat_bg         |              Municipality Seat             |      IBGE     |
 |     read_paleontology_bg          |                Paleontology                |      CPRM     |
 |      read_park_gaucho_bg          |                Park Gaucho                 |      PMB*     |
 |     read_paved_highways_bg        |              Paved Highways                |      ....     |
@@ -88,7 +88,7 @@ mun <- read_census_tract_bg()
 | read_transmission_lines_bg        |             Transmission Lines             |     ANATEL    |
 |       read_springs_bg             |                   Springs                  |      ....     |
 |  read_unpaved_highways_bg         |              Unpaved Highways              |      DIVA     |
-|      read_urban_area_bg           |               Urban footprint              |      IBGE     |
+|      read_urban_area_bg           |               Urban Footprint              |      IBGE     |
 |   read_use_ground_cover_bg        |              Use Ground Cover              |      ....     |
 |     read_vegetation_bg            |                 Vegetation                 |      IBGE     |
 
