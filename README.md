@@ -7,8 +7,9 @@
 <a href="https://github.com/GeoInformacao/geobage/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/GeoInformacao/geobage"></a>
 <img src="https://img.shields.io/static/v1?label=license&message=MIT&color=yellow&style=flat"/>
 <img src="https://img.shields.io/static/v1?label=license&message=File.LICENSE&color=yellow&style=flat"/>
-<img src="https://img.shields.io/static/v1?label=dependence&message=R>=3.5&color=red&style=flat"/>
+<img src="https://img.shields.io/static/v1?label=dependence&message=R=3.5&color=red&style=flat"/>
 <img src="https://github.com/GeoInformacao/geobage/blob/master/logogeobage.png" width=115 align="right"/>
+
 **Project Status: In development** :warning:
 
 # **Description**
