@@ -111,6 +111,12 @@ mun <- read_census_tract_bg()
 # **Contributing To geobage**
 If you want to contribute to geobage and add new functions or datasets, please check this [guide](https://github.com/GeoInformacao/geobage/blob/master/CONTRIBUTING.md) to propose your contribution.
 
+**Main revisions, in order of priority, required from employees:**
+
+- Review of versions `R`, `RStudio` and `geobr` package.
+- Review of package functions.
+- Review of `.geojson` cartographic bases
+
 # **Developers And Collaborators**
 
 <table>
