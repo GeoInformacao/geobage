@@ -24,7 +24,7 @@ geobage is an R package that allows users to easily access spatial data sets in 
 ```
 Obs 1 - Before installing the package, clean the current session or start a new session.
 
-Obs 2 - If you use Linux, you need to install a couple dependencies before installing the libraries sf, geobage and geojsonio.More info [here](https://github.com/r-spatial/sf#linux).
+Obs 2 - If you use Linux, you need to install a couple dependencies before installing the libraries sf, geobr and geojsonio. More info [here](https://github.com/r-spatial/sf#linux).
 
 # **Basic Usage**
 The syntax of all geobage functions operate from the same logic, making it intuitive to obtain data using a single line of code. Such that:
