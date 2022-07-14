@@ -87,6 +87,7 @@ mun <- read_census_tract_bg()
 |       read_railways_bg            |                 Rail Lines                 |      DIVA     |
 |      read_rural_lots_bg           |                 Rural Lots                 |      CAR      |
 |     read_rural_roads_bg           |                Rural Roads                 |      ....     |
+|       read_schools_bg             |                  Schools                   |      ....     |
 |        read_shape_bg              |            Municipality of Bagé            |      IBGE     |
 |     read_sand_banks_bg            |                 Sand Banks                 |      PMB*     |
 |   read_soil_exploration_bg        |              Soil Exploration              |      ....     |
