@@ -1,6 +1,6 @@
 # **geobage**
 
-[![CRAN/METACRAN Version](https://www.r-pkg.org/badges/version/geobage)](https://CRAN.R-project.org/package=geobage)
+[![CRAN](https://www.r-pkg.org/badges/version/geobage)](https://CRAN.R-project.org/package=geobage)
 <a href="https://github.com/GeoInformacao/geobage/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/GeoInformacao/geobage"></a>
 <img src="https://img.shields.io/static/v1?label=version&message=v1.1.0&color=orange&style=flat"/>
 <img src="https://img.shields.io/static/v1?label=build&message=passing&color=success&style=flat"/>
@@ -13,7 +13,7 @@
 ![pull request closed](https://img.shields.io/github/issues-pr-closed/GeoInformacao/geobage?color=g)
 ![size](https://img.shields.io/github/repo-size/GeoInformacao/geobage)
 ![c](https://img.shields.io/github/contributors/GeoInformacao/geobage?color=g)
-[![Lifecycle: stable](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://www.tidyverse.org/lifecycle/#stable)
+[![l](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://www.tidyverse.org/lifecycle/#stable)
 
 **Project Status: In development** :warning:
 
