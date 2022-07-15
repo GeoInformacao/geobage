@@ -7,14 +7,14 @@
 <a href="https://github.com/GeoInformacao/geobage/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/GeoInformacao/geobage"></a>
 <a href="https://github.com/GeoInformacao/geobage/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/GeoInformacao/geobage"></a>
 <img src="https://img.shields.io/static/v1?label=dependence&message=R=(^3.5)&color=red&style=flat"/>
-<img src="https://github.com/GeoInformacao/geobage/blob/master/logogeobage2.png" width=115 align="right"/>
-<img src="https://github.com/GeoInformacao/geobage/blob/master/logogeobage.png" width=115 align="right"/>
 <img src="https://img.shields.io/static/v1?label=license&message=MIT&color=yellow&style=flat"/>
 <img src="https://img.shields.io/static/v1?label=license&message=File.LICENSE&color=yellow&style=flat"/>
 ![pull request closed](https://img.shields.io/github/issues-pr-closed/GeoInformacao/geobage?color=g)
 ![size](https://img.shields.io/github/repo-size/GeoInformacao/geobage)
 ![c](https://img.shields.io/github/contributors/GeoInformacao/geobage?color=g)
 [![l](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://www.tidyverse.org/lifecycle/#stable)
+<img src="https://github.com/GeoInformacao/geobage/blob/master/logogeobage2.png" width=115 align="right"/>
+<img src="https://github.com/GeoInformacao/geobage/blob/master/logogeobage.png" width=115 align="right"/>
 
 **Project Status: In development** :warning:
 
