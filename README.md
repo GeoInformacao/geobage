@@ -13,8 +13,10 @@
 ![size](https://img.shields.io/github/repo-size/GeoInformacao/geobage)
 ![c](https://img.shields.io/github/contributors/GeoInformacao/geobage?color=g)
 [![l](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://www.tidyverse.org/lifecycle/#stable)
+
 <img src="https://github.com/GeoInformacao/geobage/blob/master/logogeobage2.png" width=115 align="right"/>
 <img src="https://github.com/GeoInformacao/geobage/blob/master/logogeobage.png" width=115 align="right"/>
+
 
 **Project Status: In development** :warning:
 
