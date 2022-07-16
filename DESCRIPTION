@@ -1,12 +1,12 @@
 Type: Package
 Package: geobage
 Title: Shapefiles of Official Spatial Data Sets of Bage
-Version: 1.1.0
+Version: 1.1.1
 Authors@R: c(person("Rodrigo Rosa da",family="Silva",email="profrodrigorosadasilva@gmail.com",role=c("aut", "cre","cph"),comment = c(ORCID = "0000-0002-8392-115X")),
            person("Cassio Pimenta de Araujo",family="Antoria",role=c("aut")),
            person("Jenefer Rodrigues",family="Fernandes",role=c("ctb")),
            person("Prefeitura Municipal de Bage - RS",role=c("cph", "fnd")))
-Date: 2021-03-26
+Date: 2022-07-16
 URL: https://github.com/GeoInformacao/geobage
 BugReports: https://github.com/GeoInformacao/geobage/issues
 Description: Access to official spatial data sets of Bage-RS as 'sf' objects in R.
