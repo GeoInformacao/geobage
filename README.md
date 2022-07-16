@@ -2,7 +2,7 @@
 
 [![CRAN](https://www.r-pkg.org/badges/version/geobage)](https://CRAN.R-project.org/package=geobage)
 <a href="https://github.com/GeoInformacao/geobage/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/GeoInformacao/geobage"></a>
-<img src="https://img.shields.io/static/v1?label=version&message=v1.1.0&color=orange&style=flat"/>
+<img src="https://img.shields.io/static/v1?label=version&message=v1.1.1&color=orange&style=flat"/>
 <img src="https://img.shields.io/static/v1?label=build&message=passing&color=success&style=flat"/>
 <a href="https://github.com/GeoInformacao/geobage/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/GeoInformacao/geobage"></a>
 <a href="https://github.com/GeoInformacao/geobage/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/GeoInformacao/geobage"></a>
