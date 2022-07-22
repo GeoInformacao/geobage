@@ -107,10 +107,6 @@ mun <- read_census_tract_bg()
 |           Function           |  Geographies available             | Source |
 |:----------------------------:|:----------------------------------:|:------:|
 |        read_paving_bg**      |             Paving                 |  PMB*  |
-|       read_flights_bg        | National and International Flights |  ....  |
-|      read_airports_bg        |    Private and Public Airports     |  ....  |
-|       read_aircrafts_bg      |         Aircrafts Data             |  ....  |
-|       read_airfares_bg       |Data on Airfares of Domestic or International Flights |  .... |
 |             ...              |               ...                  |  ....  |
 
 
