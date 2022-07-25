@@ -34,4 +34,4 @@ Imports: geobr,
 RoxygenNote: 7.2.0
 Research: [cph, fnd]
 Maintainer: Rodrigo Rosa da Silva <profrodrigorosadasilva@gmail.com>
-Config/testthat/edition: 3
+Config/testthat/edition: 4
